@@ -1,0 +1,5 @@
+{
+  "name": "Borí Cano KDS - Interactive Menu",
+  "description": "A clickable prototype of an interactive restaurant menu for Borí Cano. Customers can browse categories, view item details with audio descriptions, customize orders with options, and build a multi-person order directly from their table.",
+  "requestFramePermissions": []
+}
